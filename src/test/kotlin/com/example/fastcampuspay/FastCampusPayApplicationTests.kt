@@ -1,10 +1,10 @@
-package com.example.myfastcampuspay
+package com.example.fastcampuspay
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class MyFastCampusPayApplicationTests {
+class FastCampusPayApplicationTests {
 
 	@Test
 	fun contextLoads() {
